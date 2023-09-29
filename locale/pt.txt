@@ -1,0 +1,75 @@
+#: locale=pt
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_F23F6774_E0C1_B398_41E1_765694814577.toolTip = Acesso a entrada
+
+## Media
+
+### Title
+panorama_D7D61430_DD65_CC0D_41D0_F5E2936FA77E.label = Acesso Sala
+panorama_D12BF0DA_DD6C_4436_41DF_8DE126E62640.label = Acesso aos quartos
+panorama_EECB0B27_E143_5396_41E5_BEE3DA465BE4.label = Acesso quarto
+panorama_D7DBB3FD_DD6D_CBF3_41E3_4787720F0DDD.label = Acesso superior
+panorama_D7DB3615_DD6C_4C32_41E3_B2C40CE67F5A.label = Acesso área de serviço
+panorama_C186C007_E0C2_CD3A_41DB_7E0C7577CF6A.label = Acesso_superior
+video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB.label = CANELEIRAS_HORIZONTAL_040923_1
+panorama_D7DA5D71_DD6C_7CF3_419E_25FE8648EC55.label = Corredor externo
+panorama_D7DBF29B_DD6C_4437_41E6_D80B2A03E755.label = Corredor1
+panorama_EC540FDA_E143_72BE_41E5_6073353C36DE.label = Corredor_fundos
+panorama_D7DA38AE_DD6C_C411_41E1_498D6021283B.label = Cozinha
+panorama_D7DA6F0F_DD6C_FC10_41EA_36FB8F743991.label = Cozinha_
+panorama_EC55521A_E143_4DBE_41D4_4D729E40B5E5.label = Edícula
+panorama_EC5593CA_E143_D29F_41D2_733BC9B5B300.label = Entrada
+panorama_D7DA232D_DD6C_C413_41D1_C1FE6958E477.label = Entrada
+panorama_D7DAB708_DD6C_4C10_41DE_3F27B7DF2588.label = Entrada_
+panorama_D7DA0B7A_DD6C_44F0_41D5_AAE1A9EB5DDB.label = Escada
+panorama_D7D617C9_DD65_CC1F_41DC_3D2E638152C1.label = Hall de entrada
+panorama_D7D62E7D_DD65_DCF7_41A2_990EDB83AC34.label = Hall de entrada_
+panorama_EC55360B_E143_F59E_41D8_B85C10B79899.label = Jardim_fundos
+panorama_EC5528DD_E143_DEBA_41BC_042C1AC515BB.label = Jardim_fundos_
+panorama_EC552C42_E143_B58E_41D5_ADA0C5C7BBB9.label = Jardim_fundos__
+panorama_EC55BE1A_E143_55BE_41B6_6871A41250B1.label = Jardim_fundos_acesso
+panorama_D7DBD8CE_DD6C_4411_41E3_CC4E03962D1C.label = Lavabo
+panorama_EC5562EC_E142_B29A_41EB_12F19EB64DC0.label = Lavabo_superior
+panorama_F6EA5340_E0C6_B3F7_41E3_621D48DA69CD.label = Lavabo_superior
+panorama_D7D61E31_DD64_BC0E_41E9_886D41946EFF.label = Quarto 1
+panorama_D7D6CE6C_DD64_5C15_41E6_02C9A04E3206.label = Quarto 1_Sacada
+panorama_D7D66F6B_DD64_BC12_41C3_0A55FDBFC665.label = Quarto 1__
+panorama_C0355334_E0C1_7355_41E5_2ABE0D52F4E4.label = Quarto 2
+panorama_D7D65155_DD64_C431_41D4_D89F1C571154.label = Quarto 2_
+panorama_EC54F809_E142_FD9A_41E3_1782BC1DF210.label = Quarto 2_Sacada
+panorama_EC550592_E142_D689_41C1_200587C82BB6.label = Quarto 2__
+panorama_D7D617D8_DD64_4C3E_41E3_764F1D9A052D.label = Quarto 2_sacada
+panorama_EC54FA9D_E142_D2BB_41D0_61EA11C1F53E.label = Sala lareira
+panorama_EC54BD6E_E142_B799_4191_BDE4A187B735.label = Sala lareira_
+panorama_EC57523D_E141_4DFB_41B8_B61483FCA7A9.label = Sala principal
+panorama_EC56F47E_E141_5679_41E9_39F46FE1E9ED.label = Sala principal_
+panorama_EC57662E_E141_B598_41D0_91B2C7D04F63.label = Sala principal__
+panorama_EC575952_E141_DF88_41E8_FF4A16C4522E.label = Sala principal____
+panorama_D7DA6760_DD6B_CC10_41E1_2975B54DA18D.label = Suíte 1
+panorama_D7DA356B_DD6B_CC10_41D2_6D1D5F0FA9A7.label = Suíte 1_
+panorama_D7DA8ED4_DD6D_DC32_41D9_DEC60CCB23A1.label = Suíte 1_banheiro
+panorama_D7DA6EFB_DD6B_BDF1_41C6_BABEEDD53230.label = Suíte 2
+panorama_D7D605F1_DD64_4FF1_4184_3CE58D2F5BCD.label = Suíte 2__
+panorama_D7DA2CE5_DD6D_BC13_41E7_E30019D6574C.label = Suíte 2_banheiro
+panorama_D7DA2F9B_DD6C_5C30_4190_57A8BF005E36.label = Suíte 2_jardim de inverno
+panorama_D7D5C99E_DD64_4433_41EA_1D74AFC81883.label = Suíte 3
+panorama_D7DA28B1_DD6D_C472_41DC_25266204F6D6.label = Suíte 3_banheiro
+panorama_F2AAA442_E0C1_B5FE_41DE_52A295C4E5B3.label = Área de serviço
+panorama_F2D3B897_E0C1_DE86_41D7_DD486051C8FA.label = Área de serviço_banheiro
+panorama_F59F0AA1_E0C6_B2BB_41DF_F1B819D48230.label = Área de serviço_quarto
+
+### Video
+videolevel_D650564F_E3C1_5549_41B4_4A365037702F.posterURL = media/video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB_poster_pt.jpg
+videolevel_D650564F_E3C1_5549_41B4_4A365037702F.url = media/video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB_pt.mp4
+
+### Video Subtitles
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Casa comercial Caneleiras
