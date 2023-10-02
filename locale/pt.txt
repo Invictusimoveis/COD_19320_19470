@@ -62,8 +62,8 @@ panorama_F2D3B897_E0C1_DE86_41D7_DD486051C8FA.label = Área de serviço_banheiro
 panorama_F59F0AA1_E0C6_B2BB_41DF_F1B819D48230.label = Área de serviço_quarto
 
 ### Video
-videolevel_D650564F_E3C1_5549_41B4_4A365037702F.posterURL = media/video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB_poster_pt.jpg
-videolevel_D650564F_E3C1_5549_41B4_4A365037702F.url = media/video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB_pt.mp4
+videolevel_FD617961_F090_7634_41CA_33371444D186.posterURL = media/video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB_poster_pt.jpg
+videolevel_FD617961_F090_7634_41CA_33371444D186.url = media/video_D3B8F6A3_E3DF_D5D6_41AD_692957A1C1EB_pt.mp4
 
 ### Video Subtitles
 
